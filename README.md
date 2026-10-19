@@ -43,9 +43,10 @@ RV32I CPU.
 |---|---|---|
 | ![Tang Nano 20K hardware demonstration](assets/hardware-demo.jpg) | ![Desktop FPGA control center](assets/control-center.jpg) | ![Handwritten digit inference result](assets/inference-result.jpg) |
 
-The source demonstration video is retained outside the repository because it is
-approximately 140 MB. The still frames above document the board, UART control
-workflow, dataset update path, and HDMI result.
+The original demonstration video is approximately 140 MB. A web-optimized copy
+is embedded in the [portfolio project entry](https://huuzng312.github.io/#project-01).
+The still frames above document the board, UART control workflow, dataset update
+path, and HDMI result.
 
 ## My Role & Contributions
 
