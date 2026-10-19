@@ -1,4 +1,4 @@
-# RISC-V Controlled INT8 CNN Accelerator on FPGA
+# Design and Verification of a RISC V-Based CNN AI Accelerator and Linux-Based Embedded System
 
 <div align="center">
 

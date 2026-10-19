@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
-  <title id="title">RISC-V controlled INT8 CNN accelerator architecture</title>
+  <title id="title">Design and Verification of a RISC V-Based CNN AI Accelerator and Linux-Based Embedded System architecture</title>
   <desc id="desc">A host computer loads firmware over UART. An RV32I processor coordinates memory, a 4 by 4 CNN accelerator, microSD storage, and an HDMI result renderer.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
