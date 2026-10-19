@@ -44,7 +44,7 @@ RV32I CPU.
 | ![Tang Nano 20K hardware demonstration](assets/hardware-demo.jpg) | ![Desktop FPGA control center](assets/control-center.jpg) | ![Handwritten digit inference result](assets/inference-result.jpg) |
 
 The original demonstration video is approximately 140 MB. A web-optimized copy
-is embedded in the [portfolio project entry](https://huuzng312.github.io/#project-01).
+is embedded in the dedicated [portfolio project page](https://huuzng312.github.io/projects/riscv-cnn-accelerator/).
 The still frames above document the board, UART control workflow, dataset update
 path, and HDMI result.
 
